@@ -1,6 +1,6 @@
 body{
     font-family: Arial, sans-serif;
-    backgound-color: darkgrey;
+    background-color: darkgrey;
 }
 
 header{
@@ -21,7 +21,7 @@ nav ul li{
 
 nav ul li a{
     text-decoration: none;
-    color: #555;
+    color: #555555;
     padding: 5px;
     font-size: 14px;
 }
@@ -37,12 +37,12 @@ main{
 
 .google-logo{
     width: 200px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .search-bar{
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .search-bar input[type="text"]{
@@ -58,10 +58,9 @@ main{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 5px 20px;
+    padding: 10px 20px;
     border-radius: 20px;
     border: none;
-    background-color: #f2f2f2;
     cursor: pointer;
 }
 
@@ -70,17 +69,14 @@ main{
     text-decoration: none;
 }
 
-.lucky-button a:hover{
-    text-decoration: underline;
-}
 
 .blue-button{
-    background-color: #4285f4 !important;
+    background-color: #2659ab !important;
     color: #fff !important;
 }
 
 .blue-button{
-    background-color: #4285f4 !important;
+    background-color: #2659ab !important;
     color:#fff !important;
     border-radius: 5px;
 }
